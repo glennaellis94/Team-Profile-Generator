@@ -1,0 +1,28 @@
+{
+	"name": "team-profile-generator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"dependencies": {
+		"inquirer": "^8.1.0"
+	},
+	"devDependencies": {
+		"jest": "^27.0.3"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/glennaellis94/Team-Profile-Generator.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/glennaellis94/Team-Profile-Generator/issues"
+	},
+	"homepage": "https://github.com/glennaellis94/Team-Profile-Generator#readme"
+}
