@@ -1,0 +1,77 @@
+Name: glenn
+ID: fg
+Email: f
+Role: Manager
+Office Number: f
+--------------------
+
+Name: f
+ID: f
+Email: f
+Role: Intern
+Alma Mater: d
+--------------------
+
+Name: f
+ID: f
+Email: f
+Role: Manager
+Office Number: f
+--------------------
+
+Name: f
+ID: f
+Email: f
+Role: Intern
+Alma Mater: f
+--------------------
+
+Name: g
+ID: g
+Email: g
+Role: Engineer
+Github Username: g
+--------------------
+
+Name: f
+ID: f
+Email: f
+Role: Manager
+Office Number: f
+--------------------
+
+Name: f
+ID: f
+Email: f
+Role: Engineer
+Github Username: f
+--------------------
+
+Name: d
+ID: d
+Email: d
+Role: Intern
+Alma Mater: d
+--------------------
+
+Name: g
+ID: g
+Email: g
+Role: Manager
+Office Number: g
+--------------------
+
+Name: jim
+ID: f
+Email: f
+Role: Manager
+Office Number: f
+--------------------
+
+Name: gg
+ID: g
+Email: g
+Role: Intern
+School: f
+--------------------
+
